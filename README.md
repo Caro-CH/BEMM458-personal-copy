@@ -1,7 +1,6 @@
 # BEMM458
-code associated to BEMM458
-please refer to the sessions folder
+code associated with BEMM458
+Link to Personal Binder:
 
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thousandoaks/BEMM458/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Caro-CH/BEMM458-personal-copy/master)
